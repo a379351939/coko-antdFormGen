@@ -16,7 +16,7 @@ interface OptionProps {
 }
 
 export interface Field extends FormItemProps{
-  type:  'input' | 'select' | 'checkTree' | 'selectTree' ,
+  type: 'input' | 'select' | 'checkTree' | 'selectTree' | 'custom',
   compOption?: object,
   custom?:ReactChild,
   selectData?:OptionProps[],

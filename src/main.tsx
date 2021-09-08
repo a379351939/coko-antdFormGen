@@ -1,6 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import AntdFromGen, {Field} from './App'
+// import AntdFromGen, {Field} from './App'
+import AntdFromGen, {Field} from 'coko-antdformgen'
 import { Form, Button } from 'antd';
 import 'antd/dist/antd.css';
 

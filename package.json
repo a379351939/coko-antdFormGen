@@ -23,6 +23,7 @@
   ],
   "dependencies": {
     "antd": "^4.16.13",
+    "coko-antdformgen": "^0.0.1",
     "react": "^17.0.0",
     "react-dom": "^17.0.0"
   },

@@ -405,6 +405,15 @@ classnames@2.x, classnames@^2.2.1, classnames@^2.2.3, classnames@^2.2.5, classna
   resolved "https://registry.npmjs.org/classnames/-/classnames-2.3.1.tgz#dfcfa3891e306ec1dad105d0e88f4417b8535e8e"
   integrity sha512-OlQdbZ7gLfGarSqxesMesDa5uz7KFbID8Kpq/SxIoNGDqY8lSYs0D+hhtBXhcdB3rcbXArFr7vlHheLk1voeNA==
 
+coko-antdformgen@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.npmjs.org/coko-antdformgen/-/coko-antdformgen-0.0.1.tgz#73764e6a31b3193506e9051333841dad2df0f59a"
+  integrity sha512-icDumHBDWcxO2Yb/uJEwzqHdNro+GjV33HCd15Kao4td9BaevV4UwbMVx268fXCNN1320zL+LaR4t6oGtEcgzg==
+  dependencies:
+    antd "^4.16.13"
+    react "^17.0.0"
+    react-dom "^17.0.0"
+
 color-convert@^1.9.0:
   version "1.9.3"
   resolved "https://registry.npmjs.org/color-convert/-/color-convert-1.9.3.tgz#bb71850690e1f136567de629d2d5471deda4c1e8"
