@@ -4,6 +4,7 @@
 本组件更多是提供封装思路，具体的表单组件还需要根据实际业务调整。
 
 ### 使用
+[demo](https://codesandbox.io/s/xenodochial-archimedes-dy3fs)
 
 ```
 npm i coko-flv'
